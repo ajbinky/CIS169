@@ -1,0 +1,18 @@
+c:\users\ajbehncke1\documents\visual studio 2015\Projects\TimeCalculator\TimeCalculator\bin\Debug\TimeCalculator.exe.config
+c:\users\ajbehncke1\documents\visual studio 2015\Projects\TimeCalculator\TimeCalculator\bin\Debug\TimeCalculator.exe
+c:\users\ajbehncke1\documents\visual studio 2015\Projects\TimeCalculator\TimeCalculator\bin\Debug\TimeCalculator.pdb
+c:\users\ajbehncke1\documents\visual studio 2015\Projects\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.csprojResolveAssemblyReference.cache
+c:\users\ajbehncke1\documents\visual studio 2015\Projects\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.formMain.resources
+c:\users\ajbehncke1\documents\visual studio 2015\Projects\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.Properties.Resources.resources
+c:\users\ajbehncke1\documents\visual studio 2015\Projects\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.csproj.GenerateResource.Cache
+c:\users\ajbehncke1\documents\visual studio 2015\Projects\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.exe
+c:\users\ajbehncke1\documents\visual studio 2015\Projects\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.pdb
+P:\Spring 2017\CSharp\AndrewBehnckeUnit4\TimeCalculator\TimeCalculator\bin\Debug\TimeCalculator.exe.config
+P:\Spring 2017\CSharp\AndrewBehnckeUnit4\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.exe
+P:\Spring 2017\CSharp\AndrewBehnckeUnit4\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.pdb
+P:\Spring 2017\CSharp\AndrewBehnckeUnit4\TimeCalculator\TimeCalculator\bin\Debug\TimeCalculator.exe
+P:\Spring 2017\CSharp\AndrewBehnckeUnit4\TimeCalculator\TimeCalculator\bin\Debug\TimeCalculator.pdb
+P:\Spring 2017\CSharp\AndrewBehnckeUnit4\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.csprojResolveAssemblyReference.cache
+P:\Spring 2017\CSharp\AndrewBehnckeUnit4\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.formMain.resources
+P:\Spring 2017\CSharp\AndrewBehnckeUnit4\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.Properties.Resources.resources
+P:\Spring 2017\CSharp\AndrewBehnckeUnit4\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.csproj.GenerateResource.Cache
