@@ -1,0 +1,9 @@
+c:\users\b1nky\onedrive\documents\visual studio 2015\Projects\AndrewBehnckeUnit2\AndrewBehnckeUnit2\bin\Debug\AndrewBehnckeUnit2.exe.config
+c:\users\b1nky\onedrive\documents\visual studio 2015\Projects\AndrewBehnckeUnit2\AndrewBehnckeUnit2\bin\Debug\AndrewBehnckeUnit2.exe
+c:\users\b1nky\onedrive\documents\visual studio 2015\Projects\AndrewBehnckeUnit2\AndrewBehnckeUnit2\bin\Debug\AndrewBehnckeUnit2.pdb
+c:\users\b1nky\onedrive\documents\visual studio 2015\Projects\AndrewBehnckeUnit2\AndrewBehnckeUnit2\obj\Debug\AndrewBehnckeUnit2.csprojResolveAssemblyReference.cache
+c:\users\b1nky\onedrive\documents\visual studio 2015\Projects\AndrewBehnckeUnit2\AndrewBehnckeUnit2\obj\Debug\AndrewBehnckeUnit2.formMain.resources
+c:\users\b1nky\onedrive\documents\visual studio 2015\Projects\AndrewBehnckeUnit2\AndrewBehnckeUnit2\obj\Debug\AndrewBehnckeUnit2.Properties.Resources.resources
+c:\users\b1nky\onedrive\documents\visual studio 2015\Projects\AndrewBehnckeUnit2\AndrewBehnckeUnit2\obj\Debug\AndrewBehnckeUnit2.csproj.GenerateResource.Cache
+c:\users\b1nky\onedrive\documents\visual studio 2015\Projects\AndrewBehnckeUnit2\AndrewBehnckeUnit2\obj\Debug\AndrewBehnckeUnit2.exe
+c:\users\b1nky\onedrive\documents\visual studio 2015\Projects\AndrewBehnckeUnit2\AndrewBehnckeUnit2\obj\Debug\AndrewBehnckeUnit2.pdb
