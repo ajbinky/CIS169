@@ -7,3 +7,12 @@ c:\users\ajbehncke1\documents\visual studio 2015\Projects\AndrewBehnckeUnit7\And
 c:\users\ajbehncke1\documents\visual studio 2015\Projects\AndrewBehnckeUnit7\AndrewBehnckeUnit7\obj\Debug\AndrewBehnckeUnit7.csproj.GenerateResource.Cache
 c:\users\ajbehncke1\documents\visual studio 2015\Projects\AndrewBehnckeUnit7\AndrewBehnckeUnit7\obj\Debug\AndrewBehnckeUnit7.exe
 c:\users\ajbehncke1\documents\visual studio 2015\Projects\AndrewBehnckeUnit7\AndrewBehnckeUnit7\obj\Debug\AndrewBehnckeUnit7.pdb
+C:\Users\b1nky\Desktop\Homework\CIS169\AndrewBehnckeUnit7\AndrewBehnckeUnit7\bin\Debug\AndrewBehnckeUnit7.exe.config
+C:\Users\b1nky\Desktop\Homework\CIS169\AndrewBehnckeUnit7\AndrewBehnckeUnit7\obj\Debug\AndrewBehnckeUnit7.exe
+C:\Users\b1nky\Desktop\Homework\CIS169\AndrewBehnckeUnit7\AndrewBehnckeUnit7\obj\Debug\AndrewBehnckeUnit7.pdb
+C:\Users\b1nky\Desktop\Homework\CIS169\AndrewBehnckeUnit7\AndrewBehnckeUnit7\bin\Debug\AndrewBehnckeUnit7.exe
+C:\Users\b1nky\Desktop\Homework\CIS169\AndrewBehnckeUnit7\AndrewBehnckeUnit7\bin\Debug\AndrewBehnckeUnit7.pdb
+C:\Users\b1nky\Desktop\Homework\CIS169\AndrewBehnckeUnit7\AndrewBehnckeUnit7\obj\Debug\AndrewBehnckeUnit7.csprojResolveAssemblyReference.cache
+C:\Users\b1nky\Desktop\Homework\CIS169\AndrewBehnckeUnit7\AndrewBehnckeUnit7\obj\Debug\AndrewBehnckeUnit7.formMain.resources
+C:\Users\b1nky\Desktop\Homework\CIS169\AndrewBehnckeUnit7\AndrewBehnckeUnit7\obj\Debug\AndrewBehnckeUnit7.Properties.Resources.resources
+C:\Users\b1nky\Desktop\Homework\CIS169\AndrewBehnckeUnit7\AndrewBehnckeUnit7\obj\Debug\AndrewBehnckeUnit7.csproj.GenerateResource.Cache
