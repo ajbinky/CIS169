@@ -8,6 +8,19 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+/** =========================================================
+ Andrew Behncke
+ Windows 10
+ Microsoft Visual Studio 2015 Community
+ CIS 169
+ Unit 7 - Tic Tac Toe
+ Randomly generated tic tac toe board
+ Academic Honesty:
+ I attest that this is my original work.
+ I have not used unauthorized source code, either modified or unmodified.
+ I have not given other fellow student(s) access to my program.
+=========================================================== **/
+
 namespace AndrewBehnckeUnit7
 {
     public partial class formMain : Form
@@ -29,6 +42,7 @@ namespace AndrewBehnckeUnit7
 
         private void btnNewGame_Click(object sender, EventArgs e)
         {
+			// Change labels and fill board array
             for (int i = 0; i < size; i++)
             {
                 for (int j = 0; j < size; j++)
@@ -39,6 +53,7 @@ namespace AndrewBehnckeUnit7
                 }
             }
 
+			// Calculate winner
             int x = countRows(1);
             int o = countRows(0);
             if (x - o == 0) lblWinner.Text = "Tie";
@@ -57,7 +72,9 @@ namespace AndrewBehnckeUnit7
             return;
         }
 
-
+		/**
+         *  Used to see who the winner is
+         **/
         private int countRows(int i)
         {
             int count = 0;
@@ -88,6 +105,9 @@ namespace AndrewBehnckeUnit7
             return count;
         }
 
+		/**
+         *  Put labels into 2D array
+         **/
         private void formMain_Load(object sender, EventArgs e)
         {
             labels[0, 0] = lblBoard1;
