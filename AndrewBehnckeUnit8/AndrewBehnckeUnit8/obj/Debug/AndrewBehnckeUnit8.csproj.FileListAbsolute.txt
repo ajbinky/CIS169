@@ -1,1 +1,10 @@
 c:\users\ajbehncke1\documents\visual studio 2015\Projects\AndrewBehnckeUnit8\AndrewBehnckeUnit8\bin\Debug\AndrewBehnckeUnit8.exe.config
+C:\Users\b1nky\Desktop\Homework\CIS169\AndrewBehnckeUnit8\AndrewBehnckeUnit8\bin\Debug\AndrewBehnckeUnit8.exe.config
+C:\Users\b1nky\Desktop\Homework\CIS169\AndrewBehnckeUnit8\AndrewBehnckeUnit8\bin\Debug\AndrewBehnckeUnit8.exe
+C:\Users\b1nky\Desktop\Homework\CIS169\AndrewBehnckeUnit8\AndrewBehnckeUnit8\bin\Debug\AndrewBehnckeUnit8.pdb
+C:\Users\b1nky\Desktop\Homework\CIS169\AndrewBehnckeUnit8\AndrewBehnckeUnit8\obj\Debug\AndrewBehnckeUnit8.csprojResolveAssemblyReference.cache
+C:\Users\b1nky\Desktop\Homework\CIS169\AndrewBehnckeUnit8\AndrewBehnckeUnit8\obj\Debug\AndrewBehnckeUnit8.formMain.resources
+C:\Users\b1nky\Desktop\Homework\CIS169\AndrewBehnckeUnit8\AndrewBehnckeUnit8\obj\Debug\AndrewBehnckeUnit8.Properties.Resources.resources
+C:\Users\b1nky\Desktop\Homework\CIS169\AndrewBehnckeUnit8\AndrewBehnckeUnit8\obj\Debug\AndrewBehnckeUnit8.csproj.GenerateResource.Cache
+C:\Users\b1nky\Desktop\Homework\CIS169\AndrewBehnckeUnit8\AndrewBehnckeUnit8\obj\Debug\AndrewBehnckeUnit8.exe
+C:\Users\b1nky\Desktop\Homework\CIS169\AndrewBehnckeUnit8\AndrewBehnckeUnit8\obj\Debug\AndrewBehnckeUnit8.pdb
