@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace AndrewBehnckeUnit10
 {
+    /**
+     *  Employee Clas - Will be extended by ProductionWorker
+     **/
     public class Employee
     {
         private string name;

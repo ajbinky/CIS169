@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace AndrewBehnckeUnit10
 {
+    /**
+     *  ProductionWorker Class - Extends Employe
+     **/
     public class ProductionWorker : Employee
     {
         private int shift;

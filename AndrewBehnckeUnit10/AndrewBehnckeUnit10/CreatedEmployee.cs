@@ -10,8 +10,14 @@ using System.Windows.Forms;
 
 namespace AndrewBehnckeUnit10
 {
+    /**
+     *  New form created to display the info from a created ProductionWorker
+     **/
     public partial class formCreatedEmployee : Form
     {
+        /**
+         *  Something something constructor
+         **/
         public formCreatedEmployee(ProductionWorker pw)
         {
             InitializeComponent();
